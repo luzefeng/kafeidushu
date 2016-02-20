@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
+#include <stdlib.h>
+#include <sys/sysctl.h>
 #include <netinet/in.h>
 #include <sys/param.h>
 #include "getgateway.h"
